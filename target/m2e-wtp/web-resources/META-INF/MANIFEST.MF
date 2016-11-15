@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: FoodLocation-spring-boot Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tradeshift
+Build-Jdk: 1.7.0_45
+Built-By: asys
+Created-By: Maven Integration for Eclipse
+

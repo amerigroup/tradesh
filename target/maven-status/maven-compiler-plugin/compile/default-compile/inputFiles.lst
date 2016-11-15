@@ -1,0 +1,11 @@
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\conf\WebMvcConfig.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\Application.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\conf\MyBatisConfig.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\entity\Food.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\mapper\FoodMapper.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\model\BaseEntity.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\model\Food.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\service\FoodService.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\controller\FoodController.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\conf\MyBatisMapperScannerConfig.java
+E:\workspace\FoodLocation-spring-boot\src\main\java\com\tradeshift\util\MyMapper.java
