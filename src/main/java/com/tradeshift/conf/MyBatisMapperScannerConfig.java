@@ -45,9 +45,9 @@ public class MyBatisMapperScannerConfig {
     public MapperScannerConfigurer mapperScannerConfigurer() {
         MapperScannerConfigurer mapperScannerConfigurer = new MapperScannerConfigurer();
         mapperScannerConfigurer.setSqlSessionFactoryBeanName("sqlSessionFactory");
-        mapperScannerConfigurer.setBasePackage("tk.mybatis.springboot.mapper");
+        mapperScannerConfigurer.setBasePackage("com.tradeshift.mapper");
         Properties properties = new Properties();
-        properties.setProperty("mappers", "tk.mybatis.springboot.util.MyMapper");
+        properties.setProperty("mappers", "com.tradeshift.util.MyMapper");
         properties.setProperty("notEmpty", "false");
         properties.setProperty("IDENTITY", "MYSQL");
         mapperScannerConfigurer.setProperties(properties);

@@ -24,7 +24,7 @@ import com.tradeshift.service.FoodService;
 @RequestMapping("/food")
 public class FoodController {
 	  @Autowired
-	    private FoodService foodService;
+	  private FoodService foodService;
 
 	  @RequestMapping
 	    public PageInfo<Food> getAll(Food food) {
@@ -37,7 +37,7 @@ public class FoodController {
          return food;
     }
 
-    public static void main(String[] args) {
+ /*   public static void main(String[] args) {
         SpringApplication.run(FoodController.class);
-    }
+    }*/
 }

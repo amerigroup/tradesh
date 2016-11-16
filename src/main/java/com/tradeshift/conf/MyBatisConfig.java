@@ -59,7 +59,7 @@ public class MyBatisConfig implements TransactionManagementConfigurer {
     public SqlSessionFactory sqlSessionFactoryBean() {
         SqlSessionFactoryBean bean = new SqlSessionFactoryBean();
         bean.setDataSource(dataSource);
-        bean.setTypeAliasesPackage("tk.mybatis.springboot.model");
+        bean.setTypeAliasesPackage("com.tradeshift.model");
 
         //鍒嗛〉鎻掍欢
         PageHelper pageHelper = new PageHelper();
